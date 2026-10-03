@@ -8,10 +8,12 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0136-single-number) |
+| [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,9 +29,14 @@ My Leetcode solutions and DSA practise in Python.
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
