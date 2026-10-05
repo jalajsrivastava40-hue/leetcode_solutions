@@ -17,6 +17,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -33,6 +34,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
@@ -52,6 +54,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
