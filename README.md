@@ -40,11 +40,13 @@ My Leetcode solutions and DSA practise in Python.
 | [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
@@ -77,8 +79,13 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
