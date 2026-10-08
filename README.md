@@ -46,12 +46,14 @@ My Leetcode solutions and DSA practise in Python.
 | [0290-word-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -95,6 +97,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
