@@ -8,6 +8,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -31,6 +32,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
@@ -113,6 +115,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
