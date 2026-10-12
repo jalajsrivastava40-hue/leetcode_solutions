@@ -13,6 +13,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0136-single-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -26,6 +27,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0290-word-pattern) |
@@ -76,6 +78,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
