@@ -26,6 +26,7 @@ My Leetcode solutions and DSA practise in Python.
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ My Leetcode solutions and DSA practise in Python.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Backtracking
 |  |
 | ------- |
