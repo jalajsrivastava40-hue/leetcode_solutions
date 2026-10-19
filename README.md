@@ -8,6 +8,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0136-single-number) |
@@ -57,6 +58,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -93,6 +95,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
@@ -193,4 +196,12 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
