@@ -176,6 +176,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0182-duplicate-emails) |
+| [1890-the-latest-login-in-2020](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1890-the-latest-login-in-2020) |
 ## Divide and Conquer
 |  |
 | ------- |
