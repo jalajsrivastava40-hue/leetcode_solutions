@@ -21,6 +21,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
+| [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -119,6 +120,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
