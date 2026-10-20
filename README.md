@@ -8,6 +8,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0090-subsets-ii) |
@@ -185,6 +186,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -206,4 +208,8 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
