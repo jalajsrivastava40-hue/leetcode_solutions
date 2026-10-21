@@ -20,6 +20,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0283-move-zeroes](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -212,4 +213,16 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
