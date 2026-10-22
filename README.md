@@ -26,6 +26,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -67,6 +68,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
