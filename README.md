@@ -42,6 +42,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -151,6 +153,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -235,4 +238,8 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0463-island-perimeter) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
