@@ -68,6 +68,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -81,6 +82,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
