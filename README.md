@@ -160,6 +160,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0202-happy-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
