@@ -91,6 +91,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0020-valid-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
