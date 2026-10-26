@@ -28,6 +28,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -52,6 +53,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [1002-find-common-characters](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
@@ -90,6 +92,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
