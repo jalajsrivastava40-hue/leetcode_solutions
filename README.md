@@ -24,6 +24,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0463-island-perimeter](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0020-valid-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -107,6 +109,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
