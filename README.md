@@ -214,6 +214,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0182-duplicate-emails](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0619-biggest-single-number) |
 | [1890-the-latest-login-in-2020](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1890-the-latest-login-in-2020) |
 ## Divide and Conquer
