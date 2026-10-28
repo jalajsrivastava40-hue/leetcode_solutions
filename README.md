@@ -27,6 +27,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1002-find-common-characters) |
@@ -179,6 +180,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0231-power-of-two](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -252,6 +254,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,4 +275,16 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0155-min-stack) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
