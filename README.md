@@ -93,6 +93,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0344-reverse-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
@@ -106,6 +107,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0020-valid-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
@@ -125,6 +127,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -164,6 +167,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
