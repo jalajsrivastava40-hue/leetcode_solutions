@@ -21,6 +21,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0283-move-zeroes](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
@@ -108,6 +109,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0020-valid-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
@@ -128,6 +130,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -153,6 +156,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0209-minimum-size-subarray-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0456-132-pattern) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
@@ -305,4 +309,8 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
