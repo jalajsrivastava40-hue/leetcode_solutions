@@ -28,6 +28,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
@@ -113,6 +114,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0901-online-stock-span) |
@@ -125,6 +127,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
