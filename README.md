@@ -31,6 +31,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0735-asteroid-collision](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -138,6 +140,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
@@ -152,6 +155,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0347-top-k-frequent-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
+| [0853-car-fleet](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
