@@ -60,6 +60,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0347-top-k-frequent-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1002-find-common-characters](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -72,6 +73,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0137-single-number-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
@@ -97,6 +99,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0344-reverse-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -154,6 +157,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
 | [0853-car-fleet](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
