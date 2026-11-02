@@ -308,6 +308,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0155-min-stack](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Minimax
 |  |
 | ------- |
@@ -324,6 +325,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Ordered Set
 |  |
 | ------- |
@@ -332,4 +334,5 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
