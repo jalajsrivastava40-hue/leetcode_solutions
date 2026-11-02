@@ -114,6 +114,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0020-valid-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -305,6 +306,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Minimax
 |  |
@@ -326,4 +328,8 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0456-132-pattern) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
