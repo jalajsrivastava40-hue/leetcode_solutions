@@ -41,6 +41,7 @@ My Leetcode solutions and DSA practise in Python.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1991-find-the-middle-index-in-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -185,6 +186,7 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Greedy
 |  |
 | ------- |
