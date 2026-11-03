@@ -39,6 +39,7 @@ My Leetcode solutions and DSA practise in Python.
 | [1089-duplicate-zeros](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -131,12 +132,14 @@ My Leetcode solutions and DSA practise in Python.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -337,4 +340,5 @@ My Leetcode solutions and DSA practise in Python.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
