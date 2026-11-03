@@ -46,6 +46,7 @@ My Leetcode solutions and DSA practise in Python.
 | [2778-sum-of-squares-of-special-elements](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ My Leetcode solutions and DSA practise in Python.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
 |  |
 | ------- |
