@@ -38,6 +38,7 @@ My Leetcode solutions and DSA practise in Python.
 | [1002-find-common-characters](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -91,6 +92,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0942-di-string-match](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -167,6 +169,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0561-array-partition](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0561-array-partition) |
 | [0853-car-fleet](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -175,6 +178,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0268-missing-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0456-132-pattern) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
