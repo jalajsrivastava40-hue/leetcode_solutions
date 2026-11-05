@@ -14,6 +14,7 @@ My Leetcode solutions and DSA practise in Python.
 | [0090-subsets-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -296,6 +297,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0877-stone-game) |
 ## Depth-First Search
 |  |
