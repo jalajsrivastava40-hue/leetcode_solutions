@@ -7,6 +7,7 @@ My Leetcode solutions and DSA practise in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
@@ -83,6 +84,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -158,6 +160,7 @@ My Leetcode solutions and DSA practise in Python.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jalajsrivastava40-hue/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
